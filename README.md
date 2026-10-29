@@ -7,7 +7,8 @@ MONPORTAIL ARCHIVER — GUIDE POUR LES ÉTUDIANTS (WINDOWS)
 OBJECTIF
 Sauvegarder localement les documents accessibles dans vos anciens cours
 monPortail : modules, documents, évaluations, travaux remis et corrections.
-L'outil n'est PAS un logiciel officiel de l'Université Laval.
+***L'outil n'est PAS un logiciel officiel de l'Université Laval.***
+***VEUILLEZ respecter les règles de partages de l'université concernant les documents de cours, ce n'est qu'une aide au télechargement***
 AUCUN SUPPORT OU AIDE SI NON FONCTIONNEL POUR VOUS
 partagé bénévolement
 
